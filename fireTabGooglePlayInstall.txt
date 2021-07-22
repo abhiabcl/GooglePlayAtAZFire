@@ -1,0 +1,14 @@
+The Google apps need to be installed in the following order to work:
+Note that if you are using the newer apps from XDA then follow the order listed over there, but it should work either way.
+
+    Google Services Framework
+    Google Play Services
+    Google Account Manager
+    Google Play Store
+Once that’s finished you can open the Play Store and sign in to your Google account.
+
+Step #4: Update and Restart
+
+After you open the Play Store for the first time you need to install the YouTube app and then open it. This will prompt the Play Store services to update to the latest version, an important last step. Once the update is installed (it takes awhile), power off and restart your Fire tablet.
+
+Now the Google Play Store app should be good to go
